@@ -1,0 +1,2 @@
+add StableDiffusion as a submodule
+url = git@github.com:CompVis/stable-diffusion.git
