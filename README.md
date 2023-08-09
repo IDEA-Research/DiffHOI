@@ -1,4 +1,7 @@
 # **DiffHOI: Boosting Human-Object Interaction Detection with Text-to-Image Diffusion Model**
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/boosting-human-object-interaction-detection/zero-shot-human-object-interaction-detection)](https://paperswithcode.com/sota/zero-shot-human-object-interaction-detection?p=boosting-human-object-interaction-detection)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/boosting-human-object-interaction-detection/human-object-interaction-detection-on-hico)](https://paperswithcode.com/sota/human-object-interaction-detection-on-hico?p=boosting-human-object-interaction-detection)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/boosting-human-object-interaction-detection/human-object-interaction-detection-on-v-coco)](https://paperswithcode.com/sota/human-object-interaction-detection-on-v-coco?p=boosting-human-object-interaction-detection)
 ### [Project Page](https://diffhoi.github.io/) | [Paper](https://arxiv.org/pdf/2305.12252.pdf) | Data (Coming Soon)
 
 ### SynHOI dataset Visiualization
